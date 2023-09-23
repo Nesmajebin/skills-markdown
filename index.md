@@ -8,9 +8,10 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ``` javascript
 var myVar = "Hello, world!";
 ```
-var myVar = "Hello, world!";
+
+- [x] Learnt basics of markdowm
+- [x] Learnt basics of html
+- [ ] backend
